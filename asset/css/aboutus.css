@@ -1,0 +1,35 @@
+body{
+    background-color: whitesmoke;
+}
+.col-md-2{
+    background-color: mediumpurple;
+    padding-left: 30px;
+    align-items: center;
+    }
+.cart{
+    background-color: lightpink;
+    margin-right: 550px;
+    justify-items: center;
+    padding-left: 40px;
+    padding-top: 20px;
+}
+.topline{
+    height: 20px;
+    background-color: mediumpurple;
+    margin-right: 550px;
+    justify-items: center;
+    padding-left: 20px;
+}
+.hr{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border: 20px;
+    border-top: 5px solid red;
+}
+.c{
+    width: 20px;
+    margin-left: 150px;
+}
+.d{
+    margin-left: 400px;
+}

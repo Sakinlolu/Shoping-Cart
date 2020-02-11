@@ -1,0 +1,44 @@
+body{
+    background-color: blueviolet;
+    font-family: cursive;
+    
+}
+.surname{
+    color: chocolate;
+    border-style: dotted;
+    border-width: 5px;   
+    background-color: aqua;      
+    text-align: center;
+}
+.firstname{
+    color: crimson;
+    text-align: center;
+}
+.registration{
+    padding: 3px;
+    margin: 5px;
+}
+.box{
+    height: 100px;
+    width: 50%;
+    background-color: powderblue;
+}
+ul.female{
+    /* list-style-type: circle; */
+    list-style-type: square;
+}
+.captain{
+    color: red;
+}
+table, th, td{
+    border: .5px solid rgb(182, 107, 107);
+}
+table{ 
+    width: 100px;
+}
+th{
+    background-color: brown;
+}
+td{
+    background-color: cyan;
+}
